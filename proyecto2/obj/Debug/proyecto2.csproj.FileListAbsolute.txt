@@ -1,0 +1,15 @@
+C:\Users\francisco\source\repos\proyecto2\proyecto2\bin\Debug\proyecto2.exe.config
+C:\Users\francisco\source\repos\proyecto2\proyecto2\bin\Debug\proyecto2.exe
+C:\Users\francisco\source\repos\proyecto2\proyecto2\bin\Debug\proyecto2.pdb
+C:\Users\francisco\source\repos\proyecto2\proyecto2\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\francisco\source\repos\proyecto2\proyecto2\obj\Debug\proyecto2.csprojAssemblyReference.cache
+C:\Users\francisco\source\repos\proyecto2\proyecto2\obj\Debug\proyecto2.Form1.resources
+C:\Users\francisco\source\repos\proyecto2\proyecto2\obj\Debug\proyecto2.Properties.Resources.resources
+C:\Users\francisco\source\repos\proyecto2\proyecto2\obj\Debug\proyecto2.csproj.GenerateResource.cache
+C:\Users\francisco\source\repos\proyecto2\proyecto2\obj\Debug\proyecto2.csproj.CoreCompileInputs.cache
+C:\Users\francisco\source\repos\proyecto2\proyecto2\obj\Debug\proyecto2.csproj.CopyComplete
+C:\Users\francisco\source\repos\proyecto2\proyecto2\obj\Debug\proyecto2.exe
+C:\Users\francisco\source\repos\proyecto2\proyecto2\obj\Debug\proyecto2.pdb
+C:\Users\francisco\source\repos\proyecto2\proyecto2\obj\Debug\proyecto2.nuevoform.resources
+C:\Users\francisco\source\repos\proyecto2\proyecto2\obj\Debug\proyecto2.buscarrepuesto.resources
+C:\Users\francisco\source\repos\proyecto2\proyecto2\obj\Debug\proyecto2.nuevorepuesto.resources
